@@ -16,4 +16,4 @@ Demonstrate your ability to run a Jenkins build and manually deploy to Elastic B
 
 
 ## Deployment Document Link:
--  Link to instructions: 
+-  Link to instructions: https://github.com/kura-labs-org/c4_deployment-1/blob/main/Deployment-instructions.md
