@@ -6,7 +6,7 @@
 
 This project began diagramming the plan for my deployment in Draw.io including how I would use **GitHub**, **Jenkins**, and **AWS Elastic Beanstalk**. I continued to plan and build within a previously created Jenkins account by my instructor. Jenkins allowed me to create and test my deployment in a staging environment to ensure that it would return a 200 response from the server once deployed. Once my build passed the test phase in Jenkins, I created IAM roles and an EC2 instance through Elasticn Beanstalk. This allowed AWS access with the necessary permissions to update and launch my deployment through the IAM roles of **AWSElasticBeanstalkWebTier** and  **AWSElasticBeanstalkMulticontainerDocker**. Finally, the EC2 instance createed an applicable production environment to deploy my web applicaiton successfully. 
 
-# Below you will find the necessary steps that I took to test and deploy my web applicaiton, as well as some drawbacks that I was able to rectify along the way: 
+### Below you will find the necessary steps that I took to test and deploy my web applicaiton, as well as some drawbacks that I was able to rectify along the way: 
 
 1. Diagram the plan for deployment on Draw.io:
 
