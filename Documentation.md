@@ -1,4 +1,4 @@
-## Purpose of Deployment
+# Purpose of Deployment
 
 * To deploy a web application using AWS Elastic Beanstalk.
 
