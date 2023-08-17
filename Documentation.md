@@ -9,8 +9,9 @@ This project began diagramming the plan for my deployment in Draw.io including h
 ###### Below you will find the necessary steps that I took to test and deploy my web applicaiton, as well as some drawbacks that I was able to rectify along the way: 
 
 1. Diagram the plan for deployment on Draw.io:
+![Plan for Deployment 1](https://github.com/DANNYDEE93/Deployment_DD/assets/140758597/7348be2d-c2aa-4a30-ac4f-fec7401676f9)
 
-/assets/images/planfordeployment1.png
+
 
 
 
