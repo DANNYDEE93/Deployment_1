@@ -1,3 +1,5 @@
+##Purpose of Deployment
+-
 Diagram the plan for deployment on Draw.io
 Log into GitHub account
 Create new GitHub repository
